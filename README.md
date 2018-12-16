@@ -1,7 +1,9 @@
 ![AntiCrawlerSolution](https://github.com/AntiCrawlerSolution/AntiCrawlerSolution/blob/master/Static/%E7%88%AC%E8%99%AB.png)
 # :smile:AntiCrawlerSolution(反爬解决方案)
 
-1 . [写在开头](#1-写在开头)
+## 一个人在反反爬虫的路上真的很难:cloud::zap::cyclone::snowflake:，不过这里有一群志同道合的我们:umbrella::sunny:
+
+1 . [:mortar_board:写在开头](#1-写在开头)
 - 1.1 [:point_right:项目初衷](##1.1-项目初衷)
 - 1.2 [:clap:项目介绍](##1.2-项目介绍)
 - 1.3 [:wave:加入我们](##1.3-加入我们)
